@@ -55,6 +55,6 @@ Atuar como Desenvolvedor Java Back-End, contribuindo com soluções bem estrutur
 
 ## 📊 Estatísticas GitHub
 
-![Rafael GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelBragaDeLima&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelBragaDeLima&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelBragaDeLima&layout=compact&theme=tokyonight)
